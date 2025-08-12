@@ -9,8 +9,8 @@ Copie e cole no formato abaixo:
 
 ---
 
-**Nome:** Seu nome aqui  
-**GitHub:** https://github.com/seuusuario/html-exercicio-1
+**Nome:** João Vitor Machado De Assis  
+**GitHub:** https://github.com/jhonaaas6477/Exercicios-html
 
 ---
 
